@@ -1,0 +1,15 @@
+name: TownySet
+version: '1.0'
+main: org.breakthebot.townySet.TownySet
+api-version: '1.21'
+authors: [Veyronity]
+permissions:
+  towny.command.resident.set.wiki:
+    description: Allow residents to set & remove their /res wiki
+    default: true
+  towny.command.town.set.discord:
+    description: Allow players to set & remove their /town discord
+    default: op
+  towny.command.nation.set.discord:
+    description: Allow players to set & remove their /nation discord
+    default: op
