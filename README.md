@@ -1,10 +1,7 @@
 # TownySet - A Towny Addon
-Merged into [TownyAddons](https://github.com/breakthebot/TownyAddons/tree/master/src/main/java/org/breakthebot/townyAddons)
-
-
-
-
-
+Merged into [TownyAddons](https://github.com/breakthebot/TownyAddons/tree/master/src/main/java/org/breakthebot/townyAddons)  
+  
+<br><br><br><br><br><br>
 Allow residents to `/resident set wiki`  
 Allow town mayors & nation leaders to `/town | /nation set discord`  
 
